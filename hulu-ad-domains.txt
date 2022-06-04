@@ -1,4 +1,5 @@
 a.dlqm.net
+ads.hulu.com
 ads-a-darwin.hulu.com
 ads-bid.l.doubleclick.net
 ads-v-darwin.hulu.com
